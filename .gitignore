@@ -1,6 +1,8 @@
+# My list
 .env
 database/mongo-data
 yarn.lock
+
 # compiled output
 /dist
 /node_modules
