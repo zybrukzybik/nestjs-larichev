@@ -1,0 +1,4 @@
+/node_modules
+/database/mongo-data
+/dist
+yarn.lock
